@@ -1,4 +1,4 @@
-# A Simple Reversing Train Controller with Adrino
+# A Simple Reversing Arduino Train Controller
 
 ## Overview
 
